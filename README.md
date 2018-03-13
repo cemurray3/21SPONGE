@@ -25,7 +25,7 @@ program at the Arecibo Observatory (Murray et al. 2015).
 # Viewing and manipulating 21-SPONGE
 
 A few examples of how to interact with the 21-SPONGE data
-can be found in this Jupyter notebook.
+can be found in the Jupyter notebook.
 
 # Getting Help
 
