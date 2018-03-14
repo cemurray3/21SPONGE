@@ -1,4 +1,4 @@
-# 21SPONGE_tools
+# 21-SPONGE
 
 Simple tools for downloading, viewing and manipulating data from the 
 21cm Spectral Line Observations of Neutral Gas with the VLA (21-SPONGE) 
